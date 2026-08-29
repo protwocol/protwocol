@@ -26,13 +26,12 @@ frontend development to Shopify themes, WordPress websites, and web animation.
 
 ### Development
 
-[![My Skills](https://skillicons.dev/icons?i=react,astro,flutter,shopify,wordpress&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,react,astro,flutter,wordpress,linux&perline=3)](https://skillicons.dev)
 
 ### Design
 
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
-![Affinity](https://img.shields.io/badge/Affinity-000000?style=flat)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai&perline=3)](https://skillicons.dev)
+
 
 ---
 
