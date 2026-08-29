@@ -43,48 +43,5 @@ frontend development to Shopify themes, WordPress websites, and web animation.
 
 ---
 
-## Featured Work
-
-### 🛍️ Shopify Theme Development
-Custom Shopify themes and sections built with Liquid, HTML, CSS, and JavaScript.
-
-### 🌐 WordPress Websites
-Responsive business websites built and customized with WordPress and Elementor.
-
-### ✨ Creative Development
-Interactive websites and experiences using GSAP, smooth scrolling, transitions,
-and modern frontend techniques.
-
-### 🎨 UI & Graphic Design
-Interfaces, digital creatives, branding materials, and visual design.
-
----
-
-## Currently
-
-I'm focused on building real-world projects and improving my understanding of:
-
-- Web fundamentals
-- Front-end architecture
-- Performance
-- Accessibility
-- SEO
-- E-commerce development
-- Web animation
-
-I enjoy understanding **how things work under the hood**, rather than being
-dependent on a particular framework or tool.
-
----
-
-## Let's Connect
-
-🌐 Portfolio: **[your-portfolio.com](https://your-portfolio.com)**
-
-💼 LinkedIn: **[LinkedIn](https://linkedin.com/in/yourusername)**
-
-📧 Email: **your@email.com**
-
----
 
 > Design it. Build it. Make it work.
