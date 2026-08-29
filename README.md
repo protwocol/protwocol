@@ -1,6 +1,6 @@
 # Hey, I'm Kenth 👋
 
-**Freelance Designer & Creative Developer**
+### Freelance Designer & Creative Developer
 
 I design and build modern, responsive web experiences with a focus on
 clean interfaces, thoughtful interactions, and good performance.
