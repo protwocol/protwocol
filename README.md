@@ -22,18 +22,4 @@ frontend development to Shopify themes, WordPress websites, and web animation.
 
 ---
 
-## Tech & Tools
-
-### Development
-
-[![My Skills](https://skillicons.dev/icons?i=typescript,react,astro,flutter,wordpress,linux&perline=3)](https://skillicons.dev)
-
-### Design
-
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai&perline=3)](https://skillicons.dev)
-
-
----
-
-
 > Design it. Build it. Make it work.
